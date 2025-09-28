@@ -9,7 +9,7 @@ This repository highlights hands-on projects, case studies, and labs I’ve comp
 ### 1. Network Build & Expansion
 - Designed and deployed a secure Ubiquiti-based infrastructure with VLANs, VPN, IDS/IPS, and RAID-based storage.
 - Enabled multi-office connectivity and improved productivity by ~50%.
-- [View Case Study](Network_Build/Network_Build_Case_Study.pdf)
+- [View Case Study](Network_Build_Case_Study.pdf)
 
 ### 2. Risk Assessment – Small Business Hybrid Environment
 - Conducted risk assessment on a mid-sized company using Ubiquiti infrastructure, Microsoft 365, and Synology NAS.
