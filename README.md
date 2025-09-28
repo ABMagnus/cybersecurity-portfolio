@@ -36,5 +36,5 @@ This repository highlights hands-on projects, case studies, and labs I’ve comp
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+- [LinkedIn]()
 - [Personal Website](http://resume.upsec.pro)
