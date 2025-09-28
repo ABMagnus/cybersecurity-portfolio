@@ -14,7 +14,7 @@ This repository highlights hands-on projects, case studies, and labs I’ve comp
 ### 2. Risk Assessment – Small Business Hybrid Environment
 - Conducted risk assessment on a mid-sized company using Ubiquiti infrastructure, Microsoft 365, and Synology NAS.
 - Delivered a professional risk register, analysis, and mitigation plan.
-- [View Case Study](Risk_Assessment/Risk_Assessment_Case_Study.pdf)
+- [View Case Study](Risk_Assessment_Case_Study.pdf)
 
 ---
 
